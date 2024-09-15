@@ -83,7 +83,6 @@ Thank you for reviewing this report. Your feedback and insights are invaluable a
 ---
 
 [Contact Information]
-- **Email**: rathodnayandeep@gmail.com
 - **LinkedIn**: [Nayandeep Rathod LinkedIn](https://www.linkedin.com/in/nayandeep-rathod-aa0ab3239/)
 - **GitHub**: [Nayandeep Rathod GitHub](https://github.com/Eye27)
 
